@@ -1,0 +1,9 @@
+{
+  "name": "react-advanced-starter",
+  "version": "1.0.0",
+  "description": "Opinionated React starter with Webpack 4/Babel 7.",
+  "main": "index.js",
+  "repository": "https://github.com/danielriley06/react-advanced-starter",
+  "author": "Dan Riley <driley3@gmail.com>",
+  "license": "MIT"
+}
